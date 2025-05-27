@@ -1,0 +1,1 @@
+{"dependencies":[["vagrant-hostmanager",["= 1.8.10"]],["mixlib-shellout",["~> 2.1"]],["vbinfo",["= 0.0.2"]]],"checksum":"cc8fb12b8c461c0baba57e491cbe6bf475b183ed236ff4b15ad62f6f29cb89a1","vagrant_version":"2.4.3"}
